@@ -1,1 +1,4 @@
-
+{
+  "bug report": ["Issue Title", "Frequency", "Priority", "Environment", "Actions Performed", "Expected Results", "Actual Results", "Error Messages", "Additional Environment Info", "Attachments",]
+    
+}
