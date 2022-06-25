@@ -1,5 +1,9 @@
 {
-   ""[Dperson[C[D" {}[D
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc
-
+   "person": {
+      "name": "Vitalii",
+      "surname": "Antosikov",
+      "age": 32,
+      "pets": 3,
+      "salary": 1000,
+   }
+}
